@@ -1,0 +1,28 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# --- Virtual environment ---
+.venv/
+venv/
+env/
+
+# --- Environment files ---
+.env
+.sooneerai.env
+*.env
+data/
+
+# --- IDE / Editor files ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+
