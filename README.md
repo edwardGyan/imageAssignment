@@ -36,9 +36,8 @@ Prompt 1 : 57% accuracy (No Invalids)
     "Return just the single label, nothing else."
 ```
 
-```bash
 Prompt 2: 61% accuracy (No Invalids)
-
+```bash
     "Given these CIFAR-10 images, thoroughly compare the images and classify them into their respective categories. "
     "Only respond with the appropriate label from the following list, and nothing else: "
     "airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck. "
